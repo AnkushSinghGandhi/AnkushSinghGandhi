@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/AnkushSinghGandhi/AnkushSinghGandhi.svg)](http://hits.dwyl.com/AnkushSinghGandhi/AnkushSinghGandhi)
+
 <!--
 **AnkushSinghGandhi/AnkushSinghGandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
