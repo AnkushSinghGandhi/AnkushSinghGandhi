@@ -1,5 +1,5 @@
 ### Hi there it's me Ankush👋
-
+- Python -C -LINUX
 [![HitCount](http://hits.dwyl.com/AnkushSinghGandhi/AnkushSinghGandhi.svg)](http://hits.dwyl.com/AnkushSinghGandhi/AnkushSinghGandhi)
 
 - I am a computer science student, passonate about programming
