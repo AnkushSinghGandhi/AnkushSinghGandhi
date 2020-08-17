@@ -1,5 +1,5 @@
 ### Hi there it's me Ankush👋
-Python | C | LINUX
+Python | C | LINUX | Git & Github | Container(Docker) |
 
 [![HitCount](http://hits.dwyl.com/AnkushSinghGandhi/AnkushSinghGandhi.svg)](http://hits.dwyl.com/AnkushSinghGandhi/AnkushSinghGandhi)
 
