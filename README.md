@@ -1,7 +1,7 @@
 ### Hi there it's me Ankush👋
 Python | C | LINUX | Git & Github | Container(Docker) |
 
-[![HitCount](http://hits.dwyl.com/AnkushSinghGandhi/AnkushSinghGandhi.svg)](http://hits.dwyl.com/AnkushSinghGandhi/AnkushSinghGandhi)
+[![HitCount](http://hits.dwyl.com/ankushsinghgandhi/ankushsinghgandhi.svg)](http://hits.dwyl.com/ankushsinghgandhi/ankushsinghgandhi)
 
 - I am a computer science student, passonate about programming
 - Learning everyday
