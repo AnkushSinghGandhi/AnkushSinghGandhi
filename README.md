@@ -10,8 +10,8 @@
  
 
 <p align="center">
-  <a href="https://github.com/ankushsinghgandhi?tab=followers">
-    <img src="https://img.shields.io/github/followers/ankushsinghgandhi?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://ankushsinghgandhi.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-ANKUSHSGANDHI-blue?style=for-the-badge&logo=Pagekit" />
   </a>
   <a href="http://twitter.com/ankushsgandhi">
     <img src="https://img.shields.io/badge/TWITTER-ANKUSHSGANDHI-blue?style=for-the-badge&logo=twitter" />
