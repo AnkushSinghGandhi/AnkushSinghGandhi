@@ -22,6 +22,9 @@
   <a href="https://medium.com/@ankushsinghgandhi">
     <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSINGHGANDHI-8c92ac?style=for-the-badge&logo=Medium" />
   </a>
+  <a href="https://stackoverflow.com/users/13790266/ankush-singh">
+    <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSH-SINGH-orange?style=for-the-badge&logo="Stack Overflow" />
+  </a>
 </p>
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true" /></p>
