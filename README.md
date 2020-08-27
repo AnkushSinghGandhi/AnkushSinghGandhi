@@ -1,11 +1,11 @@
 [![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/asg.png)](https://ankushsinghgandhi.github.io)
 
 
-<p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
+<p align="center">I believe Open Source is for EVERYONE</p>
 
-<p align="center"><b>Part of the GitHub Stars program https://stars.github.com/profiles</b></p>
+<p align="center"><b>My Portfolio https://ankushsinghgandhi.github.io</b></p>
 
-<p align="center">In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+<p align="center"> </p>
 </p>
  
 
