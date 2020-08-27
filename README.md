@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/followers/ankushsinghgandhi?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/<TWITTER>-<ANKUSHSGANDHI>-<blue>" />
+    <img src="https://img.shields.io/badge/TWITTER-ANKUSHSGANDHI-blue?style=flat-square&logo=appveyor" />
   </a>
 </p>
 
