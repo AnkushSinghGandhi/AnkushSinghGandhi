@@ -4,7 +4,7 @@
 <p align="center">I believe Open Source is for EVERYONE</p>
 
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ANKUSHSGANDHI-blueviolet?style=for-the-badge&logo=Pagekit" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-ANKUSHSINGHGANDHI-blueviolet?style=for-the-badge&logo=Pagekit" />
   </a></b></p>
 
 <p align="center"> </p>
@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/TWITTER-ANKUSHSGANDHI-blue?style=for-the-badge&logo=twitter" />
   </a>
    <a href="https://www.linkedin.com/in/ankush-singh-gandhi-2487771aa/">
-    <img src="https://img.shields.io/badge/LINKEDIN-ANKUSHSGANDHI-9cf?style=for-the-badge&logo=Linkedin" />
+    <img src="https://img.shields.io/badge/LINKEDIN-ANKUSHSINGHGANDHI-9cf?style=for-the-badge&logo=Linkedin" />
   </a>
   <a href="https://medium.com/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSGANDHI-f8ffa8?style=for-the-badge&logo=Medium" />
+    <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSINGHGANDHI-8c92ac?style=for-the-badge&logo=Medium" />
   </a>
 </p>
 
