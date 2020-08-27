@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSINGHGANDHI-8c92ac?style=for-the-badge&logo=Medium" />
   </a>
   <a href="https://stackoverflow.com/users/13790266/ankush-singh">
-    <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=Stack_Overflow"/>
+    <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=Stack Overflow"/>
   </a>
 </p>
 
