@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-ANKUSHSGANDHI-9cf?style=for-the-badge&logo=Linkedin" />
   </a>
   <a href="https://medium.com/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSGANDHI-f8f8ff?style=for-the-badge&logo=Medium" />
+    <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSGANDHI-f8ffa8?style=for-the-badge&logo=Medium" />
   </a>
 </p>
 
