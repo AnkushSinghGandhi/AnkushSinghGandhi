@@ -1,33 +1,83 @@
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/asg.png)](https://ankushsinghgandhi.github.io)
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta content="width=device-width,initial-scale=1" name="viewport">
+  <meta content="description" name="description">
+  <meta name="google" content="notranslate" />
+  <meta content="Mashup templates have been developped by Orson.io team" name="author">
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-icon-180x180.png">
+  <link href="./assets/favicon.ico" rel="icon">
+
+  <title>Title page</title>  
+
+<link href="./main.3f6952e4.css" rel="stylesheet"></head>
+
+<body class="minimal">
+<div id="site-border-left"></div>
+<div id="site-border-right"></div>
+<div id="site-border-top"></div>
+<div id="site-border-bottom"></div>
+<!-- Add your content of header -->
+<header>
+  <nav class="navbar  navbar-fixed-top navbar-inverse">
+    <div class="container">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+      <div class="collapse navbar-collapse" id="navbar-collapse">
+        <ul class="nav navbar-nav ">
+          <li><a href="./index.html" title="">Home</a></li>
+          <li><a href="./works.html" title="">Works</a></li>
+          <li><a href="./about.html" title="">About me</a></li>
+        </ul>
 
 
-<p align="center">I believe Open Source is for EVERYONE</p>
+      </div> 
+    </div>
+  </nav>
+</header>
+<!-- Add your site or app content here -->
+  <div class="hero-full-container background-image-container white-text-container" style="background-image: url('./assets/images/intro-bg.jpg')">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="hero-full-wrapper">
+            <div class="text-content">
+              <h1>Hello,<br>
+                <span id="typed-strings">
+                  <span>I'm Ankush Singh</span>
+                  <span>Open Source Devloper</span>
+                  <span>Software Engineer</span>
+                  <span>Tech Enthusiat</span>
+                </span>
+                <span id="typed"></span>
+              </h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
-    <img src="https://img.shields.io/badge/PORTFOLIO-ANKUSHSINGHGANDHI-blueviolet?style=for-the-badge&logo=Pagekit" />
-  </a></b></p>
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+     type();
+     movingBackgroundImage();
+  });
+</script>
 
-<p align="center"> </p>
-</p>
- <p align="center">In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
 
-<p align="center">
+<script type="text/javascript" src="./main.70a66962.js"></script></body>
 
-  <a href="http://twitter.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/TWITTER-ANKUSHSGANDHI-blue?style=for-the-badge&logo=twitter" />
-  </a>
-   <a href="https://www.linkedin.com/in/ankush-singh-gandhi-2487771aa/">
-    <img src="https://img.shields.io/badge/LINKEDIN-ANKUSHSINGHGANDHI-9cf?style=for-the-badge&logo=Linkedin" />
-  </a>
-  <a href="https://medium.com/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSINGHGANDHI-8c92ac?style=for-the-badge&logo=Medium" />
-  </a>
-  <a href="https://stackoverflow.com/users/13790266/ankush-singh">
-    <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=StackOverflow"/>
-  </a>
-</p>
-
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true" /></p>
-
-![Dino](https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/dino.gif)
-
+</html>
