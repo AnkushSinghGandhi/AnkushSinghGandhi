@@ -28,6 +28,6 @@
 </p>
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&theme=tokyonight" /></p>
-
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajpoonia29&show_icons=true&layout=compact&theme=tokyonight" /></p>
 ![Dino](https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/dino.gif)
 
