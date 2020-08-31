@@ -9,7 +9,7 @@
 
 <p align="center"> </p>
 </p>
- <p align="center">In recent years I have trended on GitHub with the likes of Twitter, Facebook, Angular etc and was in the top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realise how much I still need to learn.</p>
+ <p align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to code and build something from it. I'm currently working on my Data Structures and Algorithms.</p>
 
 <p align="center">
 
