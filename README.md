@@ -19,8 +19,8 @@
    <a href="https://www.linkedin.com/in/ankush-singh-gandhi-2487771aa/">
     <img src="https://img.shields.io/badge/LINKEDIN-ANKUSHSINGHGANDHI-9cf?style=for-the-badge&logo=Linkedin" />
   </a>
-  <a href="https://medium.com/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSINGHGANDHI-8c92ac?style=for-the-badge&logo=Medium" />
+  <a href="https://dev.to/@ankushsinghgandhi">
+    <img src="https://img.shields.io/badge/MEDIUM-ANKUSHSINGHGANDHI-8c92ac?style=for-the-badge&logo=Dev.to" />
   </a>
   <a href="https://stackoverflow.com/users/13790266/ankush-singh">
     <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=StackOverflow"/>
