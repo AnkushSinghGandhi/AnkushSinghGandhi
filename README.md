@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-ANKUSHSINGHGANDHI-9cf?style=for-the-badge&logo=Linkedin" />
   </a>
   <a href="https://dev.to/@ankushsinghgandhi">
-    <img src="https://simpleicons.org/icons/dev-dot-to.svg" />
+    <img src="https://img.shields.io/badge/DEV.TO-ANKUSHSINGHGANDHI-000000?style=for-the-badge&logo=dEV.to"/>
   </a>
   <a href="https://stackoverflow.com/users/13790266/ankush-singh">
     <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=StackOverflow"/>
