@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=StackOverflow"/>
   </a>
   <a href="https://leetcode.com/ankushsinghgandhi/">
-    <img src="https://img.shields.io/badge/LEETCODE-ANKUSHSINGHGANDHI-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LEETCODE-ANKUSHSINGHGANDHI-green?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
