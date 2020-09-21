@@ -25,6 +25,9 @@
   <a href="https://stackoverflow.com/users/13790266/ankush-singh">
     <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=StackOverflow"/>
   </a>
+  <a href="https://leetcode.com/ankushsinghgandhi/">
+    <img src="https://img.shields.io/badge/LEETCODE-ANKUSHSINGHGANDHI-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
 </p>
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" /></p>
