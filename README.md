@@ -26,10 +26,10 @@
     <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=StackOverflow"/>
   </a>
   <a href="https://leetcode.com/ankushsinghgandhi/">
-    <img src="https://img.shields.io/badge/LEETCODE-ANKUSHSINGHGANDHI-green?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LEETCODE-ANKUSHSINGHGANDHI-yellow?style=for-the-badge&logo=leetcode"/>
   </a>
     <a href="https://www.hackerrank.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/HACKERRANK-ANKUSHSGANDHI-yellow?style=for-the-badge&logo=hackerrank"/>
+    <img src="https://img.shields.io/badge/HACKERRANK-ANKUSHSGANDHI-green?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>
 
