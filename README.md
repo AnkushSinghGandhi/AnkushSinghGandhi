@@ -28,6 +28,9 @@
   <a href="https://leetcode.com/ankushsinghgandhi/">
     <img src="https://img.shields.io/badge/LEETCODE-ANKUSHSINGHGANDHI-green?style=for-the-badge&logo=leetcode"/>
   </a>
+    <a href="https://www.hackerrank.com/ankushsgandhi">
+    <img src="https://img.shields.io/badge/HACKERRANK-ANKUSHSGANDHI-yellow?style=for-the-badge&logo=hackerrank"/>
+  </a>
 </p>
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" /></p>
