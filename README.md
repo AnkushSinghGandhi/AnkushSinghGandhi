@@ -22,7 +22,6 @@
   <a href="https://dev.to/@ankushsinghgandhi">
     <img src="https://img.shields.io/badge/DEV.TO-ANKUSHSINGHGANDHI-000000?style=for-the-badge&logo=dEV.to"/>
   </a>
-  Lets code now!!
   <a href="https://stackoverflow.com/users/13790266/ankush-singh">
     <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=StackOverflow"/>
   </a>
