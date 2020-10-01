@@ -1,7 +1,7 @@
 [![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/asg.png)](https://ankushsinghgandhi.github.io)
 
 
-<p align="center">I believe Open Source is for EVERYONE</p>
+<p align="center">I believe Open Source is for EVERYONE.</p>
 
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
     <img src="https://img.shields.io/badge/PORTFOLIO-ANKUSHSINGHGANDHI-blueviolet?style=for-the-badge&logo=Pagekit" />
