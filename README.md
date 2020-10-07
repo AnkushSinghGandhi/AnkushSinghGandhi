@@ -34,8 +34,6 @@
   </a>
 </p>
 
-<img align="right" height="260" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
-
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
@@ -44,6 +42,10 @@
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: bhanusinghank@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/).
+
+<img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
+
+
 
 #
 
