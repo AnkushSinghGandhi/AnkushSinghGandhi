@@ -34,6 +34,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
   </a>
 </p>
 
+<img align="right" height="250" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20" />
+
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
