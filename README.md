@@ -5,7 +5,7 @@
 
 
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
-    <img src="https://img.shields.io/badge/Website-purple?style=flat-square&logo=Chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-purple?style=flat-square&logo=chrome&logoColor=white" />
   </a></b></p>
 
 <p align="center"> </p>
