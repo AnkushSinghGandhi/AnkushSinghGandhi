@@ -3,6 +3,14 @@
 
 <p align="center">I believe Open Source is for EVERYONE.</p>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Telegram Badge](https://img.shields.io/badge/-DEV.TO-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
+
+
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
     <img src="https://img.shields.io/badge/PORTFOLIO-ANKUSHSINGHGANDHI-blueviolet?style=for-the-badge&logo=Pagekit" />
   </a></b></p>
@@ -17,7 +25,7 @@
     <img src="https://img.shields.io/badge/TWITTER-ANKUSHSGANDHI-blue?style=for-the-badge&logo=twitter" />
   </a>
    <a href="https://www.linkedin.com/in/ankush-singh-gandhi-2487771aa/">
-    <img src="https://img.shields.io/badge/LINKEDIN-ANKUSHSINGHGANDHI-9cf?style=for-the-badge&logo=Linkedin" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://dev.to/@ankushsinghgandhi">
     <img src="https://img.shields.io/badge/DEV.TO-ANKUSHSINGHGANDHI-000000?style=for-the-badge&logo=dEV.to"/>
