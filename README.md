@@ -34,7 +34,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   </a>
 </p>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
