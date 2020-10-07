@@ -38,10 +38,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Python, C++, Algorithms <br /> mysql, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Data Structures and Algorithms.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ankushsinghgandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://t.me/joinchat/AAAAAFFxZoOgFCE4S0YEqQ)! I am happy to help.
 - 📫 &nbsp; How to reach me: bhanusinghank@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/).
 
