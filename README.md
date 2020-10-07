@@ -34,7 +34,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   </a>
 </p>
 
-<img align="right" height="180em" alt="" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&hide_border=true" />
+<img align="right" height="180em" alt="" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 
 ### Talking about Personal Stuffs:
 
