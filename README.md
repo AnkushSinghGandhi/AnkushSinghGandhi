@@ -33,8 +33,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
     <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
   </a>
 </p>
-<br>
-<img align="right" height="180em" alt="" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 
 ### Talking about Personal Stuffs:
 
@@ -51,6 +49,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 </details>
+
 #
 
 <div align="center">
