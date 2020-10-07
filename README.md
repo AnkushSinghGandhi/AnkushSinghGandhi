@@ -8,10 +8,9 @@
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
   </a></b></p>
 
-<p align="center"> </p>
-</p>
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ankushsinghgandhi.ankushsinghgandhi&style=flat-square&color=0088cc)
- <p align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to code and build something from it. I'm currently working on my Data Structures and Algorithms.</p>
+
+I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to code and build something from it. I'm currently working on my Data Structures and Algorithms.
 
 <p align="center">
 
