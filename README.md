@@ -46,13 +46,13 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📝 &nbsp; Checkout my [Resume](https://github.com/).
 
 <br>
+### Blogs & Stats
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 </details>
 
-<br>
 <details>	
   <summary><b> My Blogs</b></summary>
 
