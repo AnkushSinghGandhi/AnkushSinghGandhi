@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/asg2.jpg)](https://ankushsinghgandhi.github.io)
+[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/header.jpg)](https://ankushsinghgandhi.github.io)
 
 
 <p align="center">I believe Open Source is for EVERYONE.</p>
