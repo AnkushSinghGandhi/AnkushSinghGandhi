@@ -56,7 +56,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </details>
 
 <details>	
-  <summary><b> My Blogs</b></summary>
+  <summary><b>⚡ My Blogs</b></summary>
 
 
 </details>
