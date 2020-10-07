@@ -4,13 +4,6 @@
 <p align="center">I believe Open Source is for EVERYONE.</p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-DEV.TO-0088cc?style=flat-square&logo=DEV.TO&logoColor=white)](https://t.me/iampavangandhi)
-
-
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
     <img src="https://img.shields.io/badge/PORTFOLIO-ANKUSHSINGHGANDHI-blueviolet?style=for-the-badge&logo=Pagekit" />
   </a></b></p>
@@ -22,22 +15,22 @@
 <p align="center">
 
   <a href="http://twitter.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/TWITTER-ANKUSHSGANDHI-blue?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=twitter&logoColor=white" />
   </a>
    <a href="https://www.linkedin.com/in/ankush-singh-gandhi-2487771aa/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://dev.to/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/DEV.TO-ANKUSHSINGHGANDHI-000000?style=for-the-badge&logo=dEV.to"/>
+    <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/13790266/ankush-singh">
-    <img src="https://img.shields.io/badge/STACKOVERFLOW-ANKUSHSINGH-orange?style=for-the-badge&logo=StackOverflow"/>
+    <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/ankushsinghgandhi/">
-    <img src="https://img.shields.io/badge/LEETCODE-ANKUSHSINGHGANDHI-yellow?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
   </a>
     <a href="https://www.hackerrank.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/HACKERRANK-ANKUSHSGANDHI-green?style=for-the-badge&logo=hackerrank"/>
+    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
   </a>
 </p>
 
