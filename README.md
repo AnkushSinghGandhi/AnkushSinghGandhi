@@ -43,6 +43,8 @@
 - 📫 &nbsp; How to reach me: bhanusinghank@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/).
 
+<br>
+
 <p align="center" height= "200" width = "280"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" /></p>
 
 
