@@ -46,10 +46,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📝 &nbsp; Checkout my [Resume](https://github.com/).
 
 <br>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-<p align="center" height= "200" width = "280"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" /></p>
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
+</details>
 #
 
 <div align="center">
