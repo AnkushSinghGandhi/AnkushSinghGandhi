@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<img align="right" height="400" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
+<img align="right" height="260" width="375" alt="" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 
 ### Talking about Personal Stuffs:
 
