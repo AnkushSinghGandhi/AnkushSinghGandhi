@@ -46,7 +46,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 📝 &nbsp; Checkout my [Resume](https://github.com/).
 
 <br>
+
 ### Blogs & Stats
+
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
