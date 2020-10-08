@@ -58,7 +58,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <details>	
   <summary><b>⚡ My Blogs</b></summary>
     1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> PYTHON ROADMAP </a><br>
-    2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> MARKDOWN CHEAT SHEET </a>
+    2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> MARKDOWN CHEAT SHEET </a><br>
+    3.<a href ="https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b"> GIT & GITHUB CHEAT SHEET </a><br>
 </details>
 
 #
