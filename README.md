@@ -57,12 +57,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <details>	
   <summary><b>⚡ My Blogs</b></summary>
-#### My other Blogs
-{% link https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06 %}{% link https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5 %}
+  [PYTHON ROADMAP](https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06)
+  [MARKDOWN CHEAT SHEET](https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5)
 </details>
-#### My other Blogs
-{% link https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06 %}
-{% link https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5 %}
+
 #
 
 <div align="center">
