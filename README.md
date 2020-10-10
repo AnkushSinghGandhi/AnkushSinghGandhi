@@ -38,7 +38,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, C++, Algorithms <br /> mysql, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Python, C++, Algorithms <br /> selenium, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Data Structures and Algorithms.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ankushsinghgandhi).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/joinchat/AAAAAFFxZoOgFCE4S0YEqQ)! I am happy to help.
