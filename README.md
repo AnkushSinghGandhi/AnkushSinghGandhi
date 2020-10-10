@@ -72,10 +72,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <details>	
   <summary><b>⚡ What's Next</b></summary>
-    1. Java
-    2. DBMS
-    3. Algo. with Java
-    4. CS Theory (operating System, Networking, Compiler)
+    1. Java <br>
+    2. DBMS <br>
+    3. Algo. with Java <br>
+    4. CS Theory (operating System, Networking, Compiler)<br>
     5. Adv. DSA
 </details>
 
