@@ -47,7 +47,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <br>
 
-### Extras
+### My Githib stats, Blogs and Current work
 
 <details>	
   <summary><b>⚡ My Github Stats</b></summary>
