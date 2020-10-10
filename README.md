@@ -47,19 +47,27 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <br>
 
-### Blogs & Stats
+### Extras
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>⚡ My Github Stats</b></summary>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 </details>
 
 <details>	
-  <summary><b>⚡ My Blogs</b></summary>
+  <summary><b>⚡ My Tech Blogs</b></summary>
     1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> PYTHON ROADMAP </a><br>
     2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> MARKDOWN CHEAT SHEET </a><br>
     3.<a href ="https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b"> GIT & GITHUB CHEAT SHEET </a><br>
+</details>
+
+<details>	
+  <summary><b>⚡ Currently Working on</b></summary>
+    1.<a href ="https://github.com/AnkushSinghGandhi/selenium-tutorials"> Selenium Framework </a><br>
+    2.<a href ="https://github.com/AnkushSinghGandhi/StonePaperScissorsOnline-gui"> Stone Paper Scissors Game </a><br>
+    3.<a href ="https://github.com/AnkushSinghGandhi/DartaStructuresAndAlgorithms-tutorials"> Data Structures and Algo.</a><br>
+    4.<a href ="https://github.com/AnkushSinghGandhi/Cpp-tutorials"> C Plus Plus </a><br>
 </details>
 
 #
