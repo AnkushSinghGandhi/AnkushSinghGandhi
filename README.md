@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ankushsinghgandhi.ankushsinghgandhi&style=flat-square&color=0088cc)
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to blog, mentor a newbie and build something from what i've learnt👨🏻‍💻. I'm currently working on my Data Structures and Algorithms🤓.
+I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to blog, mentor a newbie and build something from what i've learnt👨🏻‍💻. I'm currently working on my Data Structures and Algorithms🤓.Ask me about anything💬 [here](https://t.me/joinchat/AAAAAFFxZoOgFCE4S0YEqQ)! I am happy to help.
 
 <p align="center">
 
@@ -38,17 +38,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </p>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/coder.gif" />
-
-### Talking about Personal Stuffs:
-
-- 🛠 &nbsp; I’m currently working with Python, C++, Algorithms <br /> selenium, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Data Structures and Algorithms.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ankushsinghgandhi).
-- 💬 &nbsp; Ask me about anything [here](https://t.me/joinchat/AAAAAFFxZoOgFCE4S0YEqQ)! I am happy to help.
-- 📫 &nbsp; How to reach me: bhanusinghank@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/).
-
-<br>
 
 ### My Githib stats, Blogs and Current work
 
@@ -81,6 +70,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
     4. CS Theory (operating System, Networking, Compiler)<br>
     5. Adv. DSA
 </details>
+
+<br>
+
 
 #
 
