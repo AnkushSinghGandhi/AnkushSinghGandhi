@@ -70,6 +70,15 @@ I'm a passionate learner who's always willing to learn and work across technolog
     4.<a href ="https://github.com/AnkushSinghGandhi/Cpp-tutorials"> C Plus Plus </a><br>
 </details>
 
+<details>	
+  <summary><b>⚡ What's Next</b></summary>
+    1. Java
+    2. DBMS
+    3. Algo. with Java
+    4. CS Theory (operating System, Networking, Compiler)
+    5. Adv. DSA
+</details>
+
 #
 
 <div align="center">
