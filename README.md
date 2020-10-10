@@ -42,12 +42,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### My Githib stats, Blogs and Current work
 
 <details>	
-  <summary><b>⚡ My Github Stats</b></summary>
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
-</details>
-
-<details>	
   <summary><b>⚡ My Blogs</b></summary>
     1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> PYTHON ROADMAP </a><br>
     2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> MARKDOWN CHEAT SHEET </a><br>
@@ -74,6 +68,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
     3. Algo. with Java <br>
     4. CS Theory (operating System, Networking, Compiler)<br>
     5. Adv. DSA
+</details>
+
+<details>	
+  <summary><b>⚡ My Github Stats</b></summary>
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 </details>
 
 <br>
