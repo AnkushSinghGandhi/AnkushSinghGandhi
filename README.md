@@ -73,7 +73,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <details>	
   <summary><b>⚡ My Github Stats</b></summary>
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ankushsnghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 </details>
 
 <br>
