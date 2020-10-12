@@ -1,5 +1,6 @@
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/name.gif)](https://ankushsinghgandhi.github.io)
-
+<p align="center"><a href="https://ankushsinghgandhi.github.io">
+    <img src="(https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/name.gif" />
+  </a>
 
 <p align="center">I believe Open Source is for EVERYONE.</p>
 
