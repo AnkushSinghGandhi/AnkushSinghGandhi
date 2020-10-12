@@ -1,5 +1,5 @@
 <p align="center"><a href="https://ankushsinghgandhi.github.io">
-    <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/yo.jpg" />
+    <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/yo.jpg" />
   </a>
 
 <p align="center">I believe Open Source is for EVERYONE.</p>
@@ -38,7 +38,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   </a>
 </p>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/skull.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/skull.gif" />
 
 ### My Githib stats, Blogs and Current work
 
