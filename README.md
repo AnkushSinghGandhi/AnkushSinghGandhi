@@ -37,7 +37,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   </a>
 </p>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/aboutme.gif" />
 
 ### My Githib stats, Blogs and Current work
 
