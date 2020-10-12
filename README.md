@@ -42,19 +42,19 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### My Githib stats, Blogs and Current work
 
 <details>	
-  <summary><b>⚡ My Blogs</b></summary>
+  <summary><b>🚀 My Blogs</b></summary>
     1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> PYTHON ROADMAP </a><br>
     2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> MARKDOWN CHEAT SHEET </a><br>
     3.<a href ="https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b"> GIT & GITHUB CHEAT SHEET </a><br>
 </details>
 
 <details>	
-  <summary><b>⚡ My YouTube Videos</b></summary>
+  <summary><b>💻 My YouTube Videos</b></summary>
    
 </details>
 
 <details>	
-  <summary><b>⚡ Currently Working on</b></summary>
+  <summary><b>🎯  Currently Working on</b></summary>
     1.<a href ="https://github.com/AnkushSinghGandhi/selenium-tutorials"> Selenium Framework </a><br>
     2.<a href ="https://github.com/AnkushSinghGandhi/StonePaperScissorsOnline-gui"> Stone Paper Scissors Game </a><br>
     3.<a href ="https://github.com/AnkushSinghGandhi/DartaStructuresAndAlgorithms-tutorials"> Data Structures and Algo.</a><br>
@@ -62,7 +62,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </details>
 
 <details>	
-  <summary><b>⚡ What's Next</b></summary>
+  <summary><b>📧 What's Next</b></summary>
     1. Java <br>
     2. DBMS <br>
     3. Algo. with Java <br>
@@ -71,7 +71,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </details>
 
 <details>	
-  <summary><b>⚡ My Github Stats</b></summary>
+  <summary><b>💼 My Github Stats</b></summary>
 
 <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
 </details>
