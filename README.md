@@ -1,5 +1,5 @@
 <p align="center"><a href="https://ankushsinghgandhi.github.io">
-    <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/yo.jpg" />
+    <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/AS.jpg" />
   </a>
 
 <p align="center">I believe Open Source is for EVERYONE.</p>
