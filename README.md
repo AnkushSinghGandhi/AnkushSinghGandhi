@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
   </a></b></p>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ankushsinghgandhi.ankushsinghgandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![Vistor Badge](https://visitor-badge.glitch.me/badge?page_id=ankushsinghgandhi.ankushsinghgandhi&style=flat-square&color=0088cc)
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to blog, mentor a newbie and build something from what i've learnt👨🏻‍💻. I'm currently working on my Data Structures and Algorithms🤓.Ask me about anything💬 [here](https://t.me/joinchat/AAAAAFFxZoOgFCE4S0YEqQ)! I am happy to help.
 
