@@ -40,7 +40,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/skull.gif" />
 
-### My Githib stats, Blogs and Current work
+### My GitHub stats, Blogs and Current work
 
 <details>	
   <summary><b>🚀 My Blogs</b></summary>
