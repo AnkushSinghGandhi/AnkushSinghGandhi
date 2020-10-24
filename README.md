@@ -49,8 +49,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
     3.<a href ="https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b"> GIT & GITHUB CHEAT SHEET </a><br>
 </details>
 
-<!--<details>	
-  <summary><b>💻 My YouTube Videos</b></summary>-->
+<details>	
+  <summary><b>💻 My YouTube Videos</b></summary>
+    1.<a href ="https://www.youtube.com/watch?v=5exF5Wr2h4o"> HacktoberFest2020- First Step to Start Your Open Source Journey</a><br>
+    2.<a href ="https://www.youtube.com/watch?v=qBmRhRc_iw4&t=568s"> VIBRANCE UX (old video made in 2017)</a><br>
    
 </details>
 
