@@ -38,7 +38,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   </a>
 </p>
 <p align="center">
-I'm also Devloper of [Vibrance UX](https://www.youtube.com/results?search_query=vibrance+ux) custom ROM for various samsung devices. 
+I'm also Devloper of <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> custom ROM for various samsung devices. 
 </p>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/skull.gif" />
 
