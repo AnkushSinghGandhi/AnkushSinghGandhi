@@ -36,11 +36,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <a href="http://www.youtube.com/c/TechXtreme">
     <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
   </a>
-  <break>
+</p>
+<p align="center">
 I'm also Devloper of Vibrance UX custom ROM for various samsung devices. 
 </p>
-
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/skull.gif" />
 
 ### My GitHub stats, Blogs and Current work
