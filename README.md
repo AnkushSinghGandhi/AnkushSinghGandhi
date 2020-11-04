@@ -36,6 +36,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <a href="http://www.youtube.com/c/TechXtreme">
     <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
   </a>
+  <a href="https://www.hackerearth.com/@bhanusinghank">
+    <img src="https://img.shields.io/badge/-Hackerearth-grey?style=flat-square&logo=Hackerearth&logoColor=white"/>
+  </a>
 </p>
 <p align="center">
 I'm also Devloper of <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> custom ROM for various samsung devices. 
