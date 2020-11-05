@@ -24,7 +24,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <a href="https://dev.to/@ankushsinghgandhi">
     <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/13790266/ankush-singh">
+  <a href="https://stackoverflow.com/users/13790266/ankush-singh-gandhi?tab=profile">
     <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/ankushsinghgandhi/">
@@ -36,7 +36,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <a href="http://www.youtube.com/c/TechXtreme">
     <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
   </a>
-  <a href="https://www.hackerearth.com/@bhanusinghank">
+  <a href="https://www.hackerearth.com/@ankushsinghgandhi">
     <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
   </a>
 </p>
