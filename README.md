@@ -17,7 +17,7 @@ And Tech Xtreme is my YouTube channel dedicated to learnings of all domains with
 
 New Tech Talks Video every Sunday!!
 
-I'm also founder of The Tech Community. It is a community driven by tech enthusiasts and open source contributors to help young devlopers to be a part of this technical era by providing webinars & skills.
+I'm also founder of The Tech Community. It is a community driven by tech enthusiasts and open source contributors to help young students to improve there technical skills and be a part of this technical era by providing webinars & workshops.
 
 <p align="center">
 
