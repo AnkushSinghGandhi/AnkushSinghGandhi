@@ -28,7 +28,7 @@ New Tech Talks Video every Sunday!!
   <a href="http://twitter.com/ankushsgandhi">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-   <a href="https://www.linkedin.com/in/ankush-singh-gandhi-2487771aa/">
+   <a href="https://www.linkedin.com/in/ankushsinghgandhi/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://dev.to/@ankushsinghgandhi">
