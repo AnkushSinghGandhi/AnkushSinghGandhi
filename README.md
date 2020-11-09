@@ -17,7 +17,7 @@ I'm also founder of The Tech Community. It is a community driven by tech enthusi
 
 And Tech Xtreme is my YouTube channel dedicated to learnings of all domains without any hassle and problem. I will be posting content about technology, marketing, entrepreneurship, and education. 
 
-I started my channel in 2016 when I was still in school back then I made videos about Android and its customizations and then after that made a few custom ROMs for Samsung mobile phones. the one ROM which gets noticed was VIBRANCE UX with more than 60k downloads. you can search it on Google or Youtube there are many videos on and yes I am the original developer of it. 
+I started my channel in 2016 when I was still in school back then I made videos about Android and its customizations and then after that made a few custom ROMs for Samsung mobile phones. the one ROM which gets noticed was <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> with more than 60k downloads. you can search it on Google or Youtube there are many videos on and yes I am the original developer of it. 
 
 Now I started my channel again with the same enthusiasm with a goal to the uplift community by providing free webinars, hands-on sessions, etc.
 
@@ -50,9 +50,7 @@ New Tech Talks Video every Sunday!!
     <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
   </a>
 </p>
-<p align="center">
-I'm also Devloper of <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> custom ROM for various samsung devices. 
-</p>
+
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/skull.gif" />
 
 ### My GitHub stats, Blogs and Current work
