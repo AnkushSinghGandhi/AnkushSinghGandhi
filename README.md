@@ -19,7 +19,7 @@ And Tech Xtreme is my YouTube channel dedicated to learnings of all domains with
 
 Started my channel in 2016 when I was still in school back then I made videos about Android and its customizations and then after that made a few custom ROMs for Samsung mobile phones the one from which gets noticed was VIBRANCE UX with more than 60k downloads. you can search it on Google or Youtube there are many videos on and yes I am the original developer of it. 
 
-Now I started my channel again with the same enthusiasm with a goal to the uplift community by providing free webinars, hands-on sessions, etc
+Now I started my channel again with the same enthusiasm with a goal to the uplift community by providing free webinars, hands-on sessions, etc.
 
 New Tech Talks Video every Sunday!!
 
