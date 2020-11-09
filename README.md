@@ -17,7 +17,7 @@ I'm also founder of The Tech Community. It is a community driven by tech enthusi
 
 And Tech Xtreme is my YouTube channel dedicated to learnings of all domains without any hassle and problem. I will be posting content about technology, marketing, entrepreneurship, and education. 
 
-I started my channel in 2016 when I was still in school back then I made videos about Android and its customizations and then after that made a few custom ROMs for Samsung mobile phones the one from which gets noticed was VIBRANCE UX with more than 60k downloads. you can search it on Google or Youtube there are many videos on and yes I am the original developer of it. 
+I started my channel in 2016 when I was still in school back then I made videos about Android and its customizations and then after that made a few custom ROMs for Samsung mobile phones. the one ROM which gets noticed was VIBRANCE UX with more than 60k downloads. you can search it on Google or Youtube there are many videos on and yes I am the original developer of it. 
 
 Now I started my channel again with the same enthusiasm with a goal to the uplift community by providing free webinars, hands-on sessions, etc.
 
