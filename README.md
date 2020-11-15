@@ -72,7 +72,7 @@ New Tech Talks Video every Sunday!!
 
 <details>	
   <summary><b>🎯  Currently Working on</b></summary>
-    1.<a href ="https://github.com/AnkushSinghGandhi/selenium-tutorials"> Java </a><br>
+    1.<a href ="https://github.com/AnkushSinghGandhi/JavaTutorials"> Java </a><br>
     2.<a href ="https://github.com/AnkushSinghGandhi/StonePaperScissorsOnline-gui"> Stone Paper Scissors Game </a><br>
     3.<a href ="https://github.com/AnkushSinghGandhi/DartaStructuresAndAlgorithms-tutorials"> Data Structures and Algo.</a><br>
     4.<a href ="https://github.com/AnkushSinghGandhi/Cpp-tutorials"> C Plus Plus </a><br>
