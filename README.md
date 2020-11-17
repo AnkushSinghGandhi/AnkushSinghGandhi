@@ -21,7 +21,7 @@ I started my channel in 2016 when I was still in school back then I made videos 
 
 Now I started my channel again with the same enthusiasm with a goal to the uplift community by providing free webinars, hands-on sessions, etc.
 
-New Tech Talks Video every Sunday!!
+New Tech Talks Video every Sunday!! (Starting Soon)
 
 <p align="center">
 
