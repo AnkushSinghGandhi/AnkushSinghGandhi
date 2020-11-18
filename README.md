@@ -57,10 +57,11 @@ New Tech Talks Video every Sunday!! (Starting Soon)
 
 <details>	
   <summary><b>🚀 My Blogs</b></summary>
-    1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> PYTHON ROADMAP </a><br>
-    2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> MARKDOWN CHEAT SHEET </a><br>
-    3.<a href ="https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b"> GIT & GITHUB CHEAT SHEET </a><br>
-    4.<a href ="https://dev.to/ankushsinghgandhi/docker-cheat-sheet-56cc"> DOCKER CHEAT SHEET </a><br>
+    1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> Python Roadmap </a><br>
+    2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> Markdown Cheat Sheet </a><br>
+    3.<a href ="https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b"> Git & GitHuB CHEAT Sheet </a><br>
+    4.<a href ="https://dev.to/ankushsinghgandhi/docker-cheat-sheet-56cc"> Docker Cheat Sheet </a><br>
+    5.<a href ="https://dev.to/ankushsinghgandhi/tools-developers-should-know-4nk0"> Tools Developers Should Know<a><br>
 </details>
 
 <details>	
