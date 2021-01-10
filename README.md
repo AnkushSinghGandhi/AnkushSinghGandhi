@@ -5,6 +5,11 @@
 <p align="center">I believe Open Source is for EVERYONE.</p>
 
 
+<p align="center">
+  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
+</p>
+
+
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
   </a></b></p>
