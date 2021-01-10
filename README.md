@@ -4,7 +4,9 @@
 
 <p align="center">I believe Open Source is for EVERYONE.</p>
 
-
+<p align="center">
+  There is a Giveaway going on my channel
+</p>
 <p align="center">
   Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
 </p>
