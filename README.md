@@ -7,9 +7,6 @@
 <p align="center">
   There is a Google swags Giveaway going on my YouTube channel
 </p>
-<p align="center">
-  Join our MLH Guild <b>EddieHub</b> for #LocalHackDay to earn more points and swag! <a href="https://localhackday.mlh.io/build">Sign up now</a>
-</p>
 
 
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
