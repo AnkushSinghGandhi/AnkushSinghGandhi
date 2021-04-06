@@ -4,10 +4,6 @@
 
 <p align="center">I believe Open Source is for EVERYONE.</p>
 
-<p align="center">
-  There is a Google swags Giveaway going on my YouTube channel
-</p>
-
 
 <p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
