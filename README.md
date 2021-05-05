@@ -13,7 +13,7 @@
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to blog, mentor a newbie and build something from what i've learnt👨🏻‍💻. I'm currently working on my Data Structures and Algorithms🤓.Ask me about anything💬 [here](https://t.me/joinchat/AAAAAFFxZoOgFCE4S0YEqQ)! I am happy to help.
 
-I'm also founder of The Tech Community. It is a community driven by tech enthusiasts and open source contributors to help young students to improve their technical skills and be a part of this technical era by providing webinars & workshops.
+I'm also founder of CodeVisors(previously The Tech Community). It is a community driven by tech enthusiasts to help young students to improve their technical skills and be a part of this technical era by providing webinars & workshops.
 
 And Tech Xtreme is my YouTube channel dedicated to learnings of all domains without any hassle and problem. I will be posting content about technology, marketing, entrepreneurship, and education. 
 
@@ -21,7 +21,6 @@ I started my channel in 2016 when I was still in school back then I made videos 
 
 Now I started my channel again with the same enthusiasm with a goal to the uplift community by providing free webinars, hands-on sessions, etc.
 
-2 New YouTube videos every month!!
 
 <p align="center">
 
