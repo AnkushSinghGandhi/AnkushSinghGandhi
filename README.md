@@ -11,19 +11,17 @@
 
 ### Glad to see you here! &nbsp; ![Vistor Badge](https://visitor-badge.glitch.me/badge?page_id=ankushsinghgandhi.ankushsinghgandhi&style=flat-square&color=0088cc)
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to blog, mentor a newbie and build something from what i've learnt👨🏻‍💻. I'm currently working on my Data Structures and Algorithms🤓.Ask me about anything💬 [here](https://t.me/joinchat/AAAAAFFxZoOgFCE4S0YEqQ)! I am happy to help.
+Nice to meet you! I'm doing Bachelor's in Computer Engineering where I'm exploring various technologies and domains. My interests lie in Software Development, Machine Learning and Data Science. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to blog, mentor a newbie and build something from what i've learnt. Lately, I have been very interested in bullet journaling. I'm a big productivity and minimalism nerd, often reading up or trying out productivity tricks in an attempt to achieve a more balanced and mindful life.
 
 I'm also passionate about communities and open-source, and also tinkering and messing around with smartphones, rooting and flashing ROMs onto them, or scrapping them for parts to use in other hardware projects.
 
 I'm a problem-solver at heart, highly teachable and eager to learn new skills, fun to work with, have a killer work ethic, and above all, extremely curious and ask a lot of questions!
 
-I'm also founder of CodeVisors(previously The Tech Community). It is a community and an organization driven by tech enthusiasts focusing on reciprocal collaboration between members of the tech community.  The aim of the community is to encourage and promote communication, best practices and technical expertise in an inclusive and welcome environment.
+I'm also founder of CodeVisors. It is a community and an organization driven by tech enthusiasts focusing on reciprocal collaboration between members of the tech community.  The aim of the community is to encourage and promote communication, best practices and technical expertise in an inclusive and welcome environment.
 
 And Tech Xtreme is my YouTube channel dedicated to learnings of all domains without any hassle and problem. I will be posting content about technology, marketing, entrepreneurship, and education. 
 
 I started my channel in 2016 when I was still in school back then I made videos about Android and its customizations and then after that made a few custom ROMs for Samsung mobile phones. the one ROM which gets noticed was <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> with more than 60k downloads. you can search it on Google or Youtube there are many videos on and yes I am the original developer of it. 
-
-Now I started my channel again with the same enthusiasm with a goal to the uplift community by providing free webinars, hands-on sessions, etc.
 
 Looking to chat? Feel free to DM me on Twitter - the fastest way to reach out to me!
 
