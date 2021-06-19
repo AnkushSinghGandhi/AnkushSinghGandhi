@@ -11,18 +11,17 @@
 
 ### Glad to see you here! &nbsp; ![Vistor Badge](https://visitor-badge.glitch.me/badge?page_id=ankushsinghgandhi.ankushsinghgandhi&style=flat-square&color=0088cc)
 
-Nice to meet you! I'm doing Bachelor's in Computer Engineering where I'm exploring various technologies and domains. My interests lie in Software Development, Machine Learning and Data Science. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to blog, mentor a newbie and build something from what i've learnt. Lately, I have been very interested in bullet journaling. I'm a big productivity and minimalism nerd, often reading up or trying out productivity tricks in an attempt to achieve a more balanced and mindful life.
+Nice to meet you! I am pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development, machine learning, and data science. I enjoy learning about new technology and applying them to real-world situations. Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I am pleased to assist you.
 
-I'm also passionate about communities and open-source, and also tinkering and messing around with smartphones, rooting and flashing ROMs onto them, or scrapping them for parts to use in other hardware projects.
+I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
 
-I'm a problem-solver at heart, highly teachable and eager to learn new skills, fun to work with, have a killer work ethic, and above all, extremely curious and ask a lot of questions!
+I've always believed in giving back to the tech community, with a special emphasis on developing and supporting chances for people looking to begin a career in technology through diversity and inclusion programmes. This began with mentoring and presenting workshops in collaboration with tech for various Organizations, and progressed to the creation of the CodeVisors Community.
 
-I'm also founder of CodeVisors. It is a community and an organization driven by tech enthusiasts focusing on reciprocal collaboration between members of the tech community.  The aim of the community is to encourage and promote communication, best practices and technical expertise in an inclusive and welcome environment.
+I'm founder of CodeVisors community. It is a tech enthusiast-led network and organisation that focuses on fostering cooperation among members of the tech community. The community's goal is to promote communication and technical competence in a welcoming and open atmosphere.
 
 And Tech Xtreme is my YouTube channel dedicated to learnings of all domains without any hassle and problem. I will be posting content about machine learning, software development, data science, etc.
 
-I started my channel in 2016 when I was still in school back then I made videos about Android and its customizations and then after that made a few custom ROMs for Samsung mobile phones. the one ROM which gets noticed was <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> with more than 60k downloads. you can search it on Google or Youtube there are many videos on and yes I am the original developer of it. 
-
+I started my channel in 2016 while still in school, doing videos about Android and its customizations, and subsequently making a few custom ROMs for Samsung phones. <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> was the most popular ROM, with over 60k downloads. You may look it up on Google or YouTube; there are numerous videos about it.
 Looking to chat? Feel free to DM me on Twitter - the fastest way to reach out to me!
 
 
