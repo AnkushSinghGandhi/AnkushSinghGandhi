@@ -53,14 +53,6 @@ Looking to chat? Feel free to DM me on Twitter - the fastest way to reach out to
   </a>
 </p>
 
-#
-
-<div align="center"><img height="235em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" /></div>
-
-
-<br>
-
-
 
 
 <div align="center">
