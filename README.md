@@ -53,58 +53,20 @@ Looking to chat? Feel free to DM me on Twitter - the fastest way to reach out to
   </a>
 </p>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/skull.gif" />
+#
 
-### My GitHub stats, Blogs and Current work
+<div align="center"><img height="235em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" /></div>
 
-<details>	
-  <summary><b>🚀 My Blogs</b></summary>
-    1.<a href ="https://dev.to/ankushsinghgandhi/steps-to-master-python-1p06"> Python Roadmap </a><br>
-    2.<a href ="https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5"> Markdown Cheat Sheet </a><br>
-    3.<a href ="https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b"> Git & GitHuB CHEAT Sheet </a><br>
-    4.<a href ="https://dev.to/ankushsinghgandhi/docker-cheat-sheet-56cc"> Docker Cheat Sheet </a><br>
-    5.<a href ="https://dev.to/ankushsinghgandhi/tools-developers-should-know-4nk0"> Tools Developers Should Know<a><br>
-</details>
-
-<details>	
-  <summary><b>💻 My YouTube Videos</b></summary>
-    1.<a href ="https://www.youtube.com/watch?v=qBmRhRc_iw4&t=568s"> VIBRANCE UX (old video made in 2017)</a><br>
-    2.<a href ="https://youtu.be/UvcI5G0bidQ"> 2020 Hacktoberfest Unboxing TShirt and Swags</a><br>
-    3.<a href ="https://www.youtube.com/watch?v=brqyvIEvyek&t=22s%22"> Free Swags from google 💖 | New year giveaway</a><br>
-   
-</details>
-
-<details>	
-  <summary><b>🎯  Currently Working on</b></summary>
-    1.<a href ="https://github.com/AnkushSinghGandhi/JavaTutorials"> Java </a><br>
-    2.<a href ="https://github.com/AnkushSinghGandhi/StonePaperScissorsOnline-gui"> Stone Paper Scissors Game </a><br>
-    3.<a href ="https://github.com/AnkushSinghGandhi/DartaStructuresAndAlgorithms-tutorials"> Data Structures and Algo.</a><br>
-    4.<a href ="https://github.com/AnkushSinghGandhi/Cpp-tutorials"> C Plus Plus </a><br>
-</details>
-
-<details>	
-  <summary><b>📧 What's Next</b></summary>
-    1. Adv. DSA <br>
-    2. DBMS <br>
-    3. Algo. with Java <br>
-    4. CS Theory (operating System, Networking, Compiler)<br>
-</details>
-
-<details>	
-  <summary><b>💼 My Github Stats</b></summary>
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ankushsinghgandhi&show_icons=true&line_height=20&theme=tokyonight" />
-</details>
 
 <br>
 
 
-#
+
 
 <div align="center">
 
 
-## :point_down: Support me here!
+# :point_down: Support me here!
 <a href="https://www.buymeacoffee.com/ankushsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 </div>
