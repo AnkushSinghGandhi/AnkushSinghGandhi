@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-Nice to meet you! I am pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development, machine learning, and data science. I enjoy learning about new technology and applying them to real-world situations. Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I am pleased to assist you.
+Nice to meet you! I'm a Software Developer and ML enthusiast pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development, machine learning, and data science. I enjoy learning about new technology and applying them to real-world situations. Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I'm pleased to assist you.
 
 I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
 
@@ -21,7 +21,8 @@ I'm founder of CodeVisors community. It is a tech enthusiast-led network and org
 
 And Tech Xtreme is my YouTube channel dedicated to learnings of all domains without any hassle and problem. I will be posting content about machine learning, software development, data science, etc.
 
-I started my channel in 2016 while still in school, doing videos about Android and its customizations, and subsequently making a few custom ROMs for Samsung phones. <a href="https://www.youtube.com/results?search_query=vibrance+ux">Vibrance UX</a> was the most popular ROM, with over 60k downloads. You may look it up on Google or YouTube; there are numerous videos about it.
+I started my channel in 2016 while still in school, doing videos about Android and its customizations, and subsequently making a few custom ROMs for Samsung phones. Vibrance UX was the most popular ROM, with over 60k downloads. You may look it up on Google or YouTube; there are numerous videos about it.
+
 Looking to chat? Feel free to DM me on Twitter - the fastest way to reach out to me!
 
 
