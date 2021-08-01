@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ankushsinghgandhi.github.io">
+<p align="center"><a href="https://ankushgandhi.com">
     <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/ANKUSHNEW.jpg" />
   </a>
 
