@@ -2,12 +2,8 @@
     <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/ANKUSHNEW.jpg" />
   </a>
 
-<p align="center">I believe Open Source is for EVERYONE.</p>
-
-
-<p align="center"><b>  <a href="https://ankushsinghgandhi.github.io">
-    <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
-  </a></b></p>
+[![Website](https://img.shields.io/website?label=ankushgandhi.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ankushgandhi.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ankushsgandhi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi)
 
 ### Glad to see you here! &nbsp; 
 
