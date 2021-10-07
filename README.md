@@ -36,9 +36,13 @@ Nice to meet you! I'm a Software Developer and ML enthusiast pursuing a Bachelor
 
 I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
     
-<b>Looking to chat?</b> Feel free to DM me on Twitter - the fastest way to reach out to me!
+<b>Looking to chat?</b> Feel free to [DM me on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi) - the fastest way to reach out to me!
     
-## CodeVisors Community 🧑‍🤝‍🧑
+## [CodeVisors Community](codevisors.github.io) 🧑‍🤝‍🧑
+    
+<a href="http://twitter.com/ankushsgandhi"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://discord.gg/47vQN9Z3XB"><img src="https://img.shields.io/badge/-Discord-purple?style=flat-square&logo=Discord&logoColor=white"/></a>
+<a href="https://codevisors.substack.com/subscribe"><img src="https://img.shields.io/badge/-NewsLetter-grey?style=flat-square&logo=Substack&logoColor=white"/></a>
 
 I've always believed in giving back to the tech community, with a special emphasis on developing and supporting chances for people looking to begin a career in technology through diversity and inclusion programmes. This began with mentoring and presenting workshops in collaboration with tech for various Organizations, and progressed to the creation of the CodeVisors Community.
 
