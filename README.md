@@ -58,12 +58,4 @@ I'm founder of CodeVisors community. It is a tech enthusiast-led network and org
 [![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=testimonials)](https://github.com/codevisors/testimonials)
 [![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=support)](https://github.com/codevisors/support)
 
-<div align="center">
-    
-# :point_down: Support me here!
-<a href="https://www.buymeacoffee.com/ankushsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</div>
-
-#
-
-![](https://github.com/AnkushSinghGandhi/AnkushSinghGandhi/blob/master/images/footer.png)
+<a href="https://www.buymeacoffee.com/ankushsingh"><img src="https://user-images.githubusercontent.com/55637484/136698262-a5715d94-fa1b-4b73-9e07-13a9f08538db.jpg"></a>
