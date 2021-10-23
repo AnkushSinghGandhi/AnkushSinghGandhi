@@ -31,6 +31,8 @@
   </a>
 
 ## Glad to see you here! 🤝
+    
+<img align="right" height="400" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 
 Nice to meet you! I'm a Software Developer and ML enthusiast pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development, machine learning, and data science. I enjoy learning about new technology and applying them to real-world situations. Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I'm pleased to assist you.
 
