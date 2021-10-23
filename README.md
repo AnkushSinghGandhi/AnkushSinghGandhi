@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
   </a>
 
-## Glad to see you here! 🤝
+## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
     
 <img align="right" height="400" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 
