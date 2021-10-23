@@ -40,7 +40,7 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
     
 <b>Looking to chat?</b> Feel free to [DM me on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi) - the fastest way to reach out to me!
     
-## [CodeVisors Community](codevisors.github.io) 🧑‍🤝‍🧑
+## [CodeVisors Community](htps://codevisors.github.io) 🧑‍🤝‍🧑
     
 <a href="http://twitter.com/ankushsgandhi"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://discord.gg/47vQN9Z3XB"><img src="https://img.shields.io/badge/-Discord-purple?style=flat-square&logo=Discord&logoColor=white"/></a>
