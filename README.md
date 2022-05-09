@@ -34,9 +34,9 @@
     
 <img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 
-I'm a Software Developer and ML enthusiast pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. My areas of expertise include software development, machine learning, and data science. I enjoy learning about new technology and applying them to real-world situations.
+### I'm a Software Developer and Flutter enthusiast based in India. 
     
-Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I'm pleased to assist you.
+#### Aside from that, I enjoy blogging, mentoring newbies, and building something from what I've learned. If you have any questions about technology, I'm pleased to assist you.
 
 I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
     
@@ -49,9 +49,11 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
 <a href="https://codevisors.substack.com/subscribe"><img src="https://img.shields.io/badge/-NewsLetter-grey?style=flat-square&logo=Substack&logoColor=white"/></a>
 <a href="https://github.com/codevisors"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
     
-I've always believed in giving back to the tech community, with a special emphasis on developing and supporting chances for people looking to begin a career in technology through diversity and inclusion programmes. This began with mentoring and presenting workshops in collaboration with tech for various Organizations, and progressed to the creation of the CodeVisors Community.
+#### I've always believed in giving back to the tech community, 
+with a special emphasis on developing and supporting chances for people looking to begin a career in technology through diversity and inclusion programmes. This began with mentoring and presenting workshops in collaboration with tech for various Organizations, and progressed to the creation of the CodeVisors Community.
 
-I'm founder of CodeVisors community. It is a tech enthusiast-led network and organisation that focuses on fostering cooperation among members of the tech community. The community's goal is to promote communication and technical competence in a welcoming and open atmosphere.
+### I'm founder of CodeVisors community. 
+#### It's a tech enthusiast-led network and organisation that focuses on fostering cooperation among members of the tech community. The community's goal is to promote communication and technical competence in a welcoming and open atmosphere.
     
 ### Community Repositories
 
