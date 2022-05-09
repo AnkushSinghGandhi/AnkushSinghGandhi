@@ -36,9 +36,15 @@
 
 ### I'm a software developer and flutter enthusiast based in India. 
     
-#### Aside from that, I enjoy blogging, mentoring newbies, and building something from what I've learned. If you have any questions about technology, I'm pleased to assist you.
+#### Aside from that, I enjoy blogging, helping the student community navigate their professional journey, building cool mini-projects, personal branding, and so on.
+
+If you have any questions about tech that I can help you with, I'm pleased to assist you.
 
 I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
+
+If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
+
+I'll try to do my best with OSS 🔥
     
 <b>Looking to chat?</b> Feel free to [DM me on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi) - the fastest way to reach out to me!
     
