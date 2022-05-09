@@ -43,8 +43,8 @@ If you have any questions about tech that I can help you with, I'm pleased to as
 I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
 
 If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
-
-I'll try to do my best with OSS 🔥
+    
+You can buy me a cofee <a href="https://www.buymeacoffee.com/ankushsingh">here</a>. I'll try to do my best with OSS 🔥
     
 <b>Looking to chat?</b> Feel free to [DM me on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi) - the fastest way to reach out to me!
     
