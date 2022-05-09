@@ -34,7 +34,7 @@
     
 <img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 
-### I'm a Software Developer and Flutter enthusiast based in India. 
+### I'm a software developer and flutter enthusiast based in India. 
     
 #### Aside from that, I enjoy blogging, mentoring newbies, and building something from what I've learned. If you have any questions about technology, I'm pleased to assist you.
 
