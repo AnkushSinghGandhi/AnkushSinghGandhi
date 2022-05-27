@@ -67,5 +67,3 @@ with a special emphasis on developing and supporting chances for people looking 
 [![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=codevisor-twitter-bot)](https://github.com/codevisors/codevisor-profile-launcher)
 [![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=testimonials)](https://github.com/codevisors/testimonials)
 [![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=support)](https://github.com/codevisors/support)
-
-<a href="https://www.buymeacoffee.com/ankushsingh"><img src="https://user-images.githubusercontent.com/55637484/136698262-a5715d94-fa1b-4b73-9e07-13a9f08538db.jpg"></a>
