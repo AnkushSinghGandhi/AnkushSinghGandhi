@@ -39,8 +39,6 @@
 #### Aside from that, I write blogs about different technologies like Flutter & LINUX because knowledge not shared is knowledge wasted. In addition, I enjoy documenting my journeys in both technology and other areas of life. My goal has been to assist the student community in navigating their professional journeys while also building my own personal brand.
 
 If you have any questions about tech that I can help you with, I'm pleased to assist you.
-    
-I've always believed in giving back to the tech community, with a special emphasis on developing and supporting chances for people looking to begin a career in technology through diversity and inclusion programs. This began with mentoring and presenting workshops in collaboration with tech for various Organizations and progressed to the creation of the CodeVisors Community.
 
 If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
     
