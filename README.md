@@ -36,7 +36,7 @@
 
 ### I'm a software developer and flutter enthusiast based in India. 
     
-#### Aside from that, I try to write blogs about everything I know because knowledge not shared is knowledge wasted. In addition, I enjoy documenting my journeys in both technology and other areas of life. My goal has been to assist the student community in navigating their professional journeys while also building my own personal brand.
+#### Aside from that, I write blogs about different tecnologies like Flutter & LINUX because knowledge not shared is knowledge wasted. In addition, I enjoy documenting my journeys in both technology and other areas of life. My goal has been to assist the student community in navigating their professional journeys while also building my own personal brand.
 
 If you have any questions about tech that I can help you with, I'm pleased to assist you.
     
