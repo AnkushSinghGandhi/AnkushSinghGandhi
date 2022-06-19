@@ -36,11 +36,11 @@
 
 ### I'm a software developer and flutter enthusiast based in India. 
     
-#### Aside from that, I enjoy blogging, helping the student community navigate their professional journey, building cool mini-projects, personal branding, and so on.
+#### Aside from that, I try to write blogs about everything I know because knowledge not shared is knowledge wasted. In addition, I enjoy documenting my journeys in both technology and other areas of life. My goal has been to assist the student community in navigating their professional journeys while also building my own personal brand.
 
 If you have any questions about tech that I can help you with, I'm pleased to assist you.
-
-I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions!
+    
+I've always believed in giving back to the tech community, with a special emphasis on developing and supporting chances for people looking to begin a career in technology through diversity and inclusion programs. This began with mentoring and presenting workshops in collaboration with tech for various Organizations and progressed to the creation of the CodeVisors Community.
 
 If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
     
