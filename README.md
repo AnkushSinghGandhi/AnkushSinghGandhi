@@ -34,9 +34,9 @@
     
 <img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 
-### I'm a software developer and flutter enthusiast based in India. 
+### I'm a Backend developer and Python enthusiast based in India.
     
-#### Aside from that, I write blogs about different technologies like Flutter & LINUX because knowledge not shared is knowledge wasted. In addition, I enjoy documenting my journeys in tech and other areas of life. My goal has been to assist the student community in navigating their professional journeys while also building my own personal brand.
+#### Aside from that, I write blogs about different topics like Backend development, Devops, Data Science because knowledge not shared is knowledge wasted. In addition, I enjoy documenting my journeys in tech and other areas of life. My goal has been to assist the student community in navigating their professional journeys while also building my own personal brand.
 
 If you have any questions about tech that I can help you with, I'm pleased to assist you.
 
