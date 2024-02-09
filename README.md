@@ -59,9 +59,3 @@ with a special emphasis on developing and supporting chances for people looking 
 ### I'm founder of CodeVisors community. 
 #### It's a tech enthusiast-led network and organisation that focuses on fostering cooperation among members of the tech community. The community's goal is to promote communication and technical competence in a welcoming and open atmosphere.
     
-### Community Repositories
-
-[![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=todo-list-extension)](https://github.com/codevisors/todo-list-extension)
-[![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=codevisor-twitter-bot)](https://github.com/codevisors/codevisor-profile-launcher)
-[![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=testimonials)](https://github.com/codevisors/testimonials)
-[![CodeVisors Support Repo](https://github-readme-stats.vercel.app/api/pin/?username=codevisors&repo=support)](https://github.com/codevisors/support)
