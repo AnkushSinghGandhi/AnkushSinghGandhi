@@ -1,8 +1,8 @@
-<p align="center"><a href="https://ankushgandhi.com">
+<p align="center"><a href="https://warriorwhocodes.com">
     <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/ASGBanner.jpg" />
   </a>
 
-[![Website](https://img.shields.io/website?label=ankushgandhi.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ankushgandhi.com)
+[![Website](https://img.shields.io/website?label=warriorwhocodes.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://warriorwhocodes.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankushsgandhi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi)
     
    <a href="http://twitter.com/ankushsgandhi">
@@ -41,8 +41,6 @@
 If you have any questions about tech that I can help you with, I'm pleased to assist you.
 
 If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
-    
-You can buy me a cofee <a href="https://www.buymeacoffee.com/ankushsingh">here</a>. I'll try to do my best with OSS 🔥
     
 <b>Looking to chat?</b> Feel free to [DM me on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi) - the fastest way to reach out to me!
     
