@@ -1,5 +1,5 @@
 <p align="center"><a href="https://warriorwhocodes.com">
-    <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/ASGBanner.jpg" />
+    <img src="https://raw.githubusercontent.com/ankushsinghgandhi/ankushsinghgandhi/master/images/WWC.jpg" />
   </a>
 
 [![Website](https://img.shields.io/website?label=warriorwhocodes.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://warriorwhocodes.com)
