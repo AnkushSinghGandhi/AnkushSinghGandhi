@@ -22,15 +22,15 @@ with expertise in crafting scalable and efficient web applications. With 2 years
 <a href="https://medium.com/@ankushsinghgandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankushsinghgandhi" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [warriorwhocodes.com](warriorwhocodes.com)
+- 👨‍💻 All of my projects are available at [warriorwhocodes.com](https://warriorwhocodes.com)
 
-- 📝 I regularly write articles on [dev.to/ankushsinghgandhi](dev.to/ankushsinghgandhi)
+- 📝 I regularly write articles on [dev.to/ankushsinghgandhi](https://dev.to/ankushsinghgandhi)
 
 - 💬 Ask me anything about **django, python, flask**
 
 - 📫 How to reach me **ankushsinghgandhi@gmail.com**
 
-- 📄 Know about my experiences [warriorwhocodes.com/resume.pdf](warriorwhocodes.com/resume.pdf)
+- 📄 Know about my experiences [warriorwhocodes.com/resume.pdf](https://warriorwhocodes.com/resume.pdf)
 
 My technical toolkit includes a wide range of technologies and frameworks, including MongoDB, PostgreSQL, MySQL, GitHub, Git, GitHub Actions, Docker, AWS, and more. 💻 I'm well-versed in leveraging cloud services and containerization to optimize application deployment and scalability.
 
