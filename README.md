@@ -4,6 +4,19 @@
 
 [![Website](https://img.shields.io/website?label=warriorwhocodes.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://warriorwhocodes.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankushsgandhi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi)
+
+## Glad to see you here! 👋
+    
+
+### I'm a Backend developer and Python enthusiast based in India.
+    
+#### Aside from that, I write blogs about different topics like Backend development, Devops, Data Science because knowledge not shared is knowledge wasted. In addition, I enjoy documenting my journeys in tech and other areas of life. My goal has been to assist the student community in navigating their professional journeys while also building my own personal brand.
+
+If you have any questions about tech that I can help you with, I'm pleased to assist you.
+
+If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
+
+
 <img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 
 <h3 align="left">Connect with me:</h3>
@@ -25,18 +38,6 @@
 
 - 📄 Know about my experiences [warriorwhocodes.com/resume.pdf](warriorwhocodes.com/resume.pdf)
 
-
-
-## Glad to see you here! 👋
-    
-
-### I'm a Backend developer and Python enthusiast based in India.
-    
-#### Aside from that, I write blogs about different topics like Backend development, Devops, Data Science because knowledge not shared is knowledge wasted. In addition, I enjoy documenting my journeys in tech and other areas of life. My goal has been to assist the student community in navigating their professional journeys while also building my own personal brand.
-
-If you have any questions about tech that I can help you with, I'm pleased to assist you.
-
-If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
 
     
 ## My Skill Set  
