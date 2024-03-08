@@ -8,7 +8,8 @@
 ## Glad to see you here! 👋
     
 
-I'm a Python backend developer proficient in Django and Flask, with expertise in crafting scalable and efficient web applications. With 2 years of experience in the industry, I've honed my skills in architecting robust backend systems that power dynamic user experiences.
+### I'm a Python backend developer proficient in Django and Flask, 
+with expertise in crafting scalable and efficient web applications. With 2 years of experience in the industry, I've honed my skills in architecting robust backend systems that power dynamic user experiences.
     
 <img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 
@@ -31,7 +32,7 @@ I'm a Python backend developer proficient in Django and Flask, with expertise in
 
 - 📄 Know about my experiences [warriorwhocodes.com/resume.pdf](warriorwhocodes.com/resume.pdf)
 
-#### My technical toolkit includes a wide range of technologies and frameworks, including MongoDB, PostgreSQL, MySQL, GitHub, Git, GitHub Actions, Docker, AWS, and more. 💻 I'm well-versed in leveraging cloud services and containerization to optimize application deployment and scalability.
+My technical toolkit includes a wide range of technologies and frameworks, including MongoDB, PostgreSQL, MySQL, GitHub, Git, GitHub Actions, Docker, AWS, and more. 💻 I'm well-versed in leveraging cloud services and containerization to optimize application deployment and scalability.
 
 In my career journey, I've had the privilege of contributing to diverse projects, including some financial trading applications. At Desi Diaries, I led the backend development efforts, orchestrating seamless integration with global data feeds API for real-time market insights. 📈 This experience enhanced my proficiency in handling complex data processing tasks and ensuring the reliability and security of mission-critical applications.
 
