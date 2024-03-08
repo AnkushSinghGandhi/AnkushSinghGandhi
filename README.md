@@ -8,7 +8,7 @@
 ## Glad to see you here! 👋
     
 
-### I'm a Python backend developer proficient in Django and Flask, with expertise in crafting scalable and efficient web applications. With 2 years of experience in the industry, I've honed my skills in architecting robust backend systems that power dynamic user experiences.
+## I'm a Python backend developer proficient in Django and Flask, with expertise in crafting scalable and efficient web applications. With 2 years of experience in the industry, I've honed my skills in architecting robust backend systems that power dynamic user experiences.
     
 <img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 
