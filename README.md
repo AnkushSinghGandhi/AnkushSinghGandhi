@@ -34,11 +34,9 @@ with expertise in crafting scalable and efficient web applications. With 2 years
 
 My technical toolkit includes a wide range of technologies and frameworks, including MongoDB, PostgreSQL, MySQL, GitHub, Git, GitHub Actions, Docker, AWS, and more. 💻 I'm well-versed in leveraging cloud services and containerization to optimize application deployment and scalability.
 
-I thrive in collaborative environments where I can leverage my problem-solving skills and technical acumen to overcome challenges and deliver innovative solutions. Whether it's designing RESTful APIs, optimizing database performance, or implementing CI/CD pipelines with GitHub Actions, I'm committed to delivering high-quality code that meets the needs of users and stakeholders. 💡
+I thrive in collaborative environments where I can leverage my problem-solving skills to overcome challenges and deliver innovative solutions. Whether it's designing RESTful APIs, optimizing database performance, or implementing CI/CD pipelines with GitHub Actions, I'm committed to delivering high-quality code that meets the needs of users and stakeholders. 💡
 
 Additionally, I'm passionate about sharing my knowledge and insights through tech blogs, where I explore emerging technologies, best practices, and industry trends. 📝
-
-Outside of work, I enjoy exploring new technologies, contributing to open-source projects, and engaging with the developer community. Let's connect and explore how we can collaborate on exciting projects together! 🚀
 
 If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
     
