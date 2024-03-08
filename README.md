@@ -4,31 +4,27 @@
 
 [![Website](https://img.shields.io/website?label=warriorwhocodes.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://warriorwhocodes.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankushsgandhi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi)
-    
-   <a href="http://twitter.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-   <a href="https://www.linkedin.com/in/ankushsinghgandhi/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev.to/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/-Dev.to-grey?style=flat-square&logo=dev.to&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/13790266/ankush-singh-gandhi?tab=profile">
-    <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/ankushsinghgandhi/">
-    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
-  </a>
-    <a href="https://www.hackerrank.com/ankushsgandhi">
-    <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
-  </a>
-  <a href="http://www.youtube.com/c/TechXtreme">
-    <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerearth.com/@ankushsinghgandhi">
-    <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
-  </a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/ankushsinghgandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ankushsinghgandhi" height="30" width="40" /></a>
+<a href="https://twitter.com/ankushsgandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankushsgandhi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankushsinghgandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankushsinghgandhi" height="30" width="40" /></a>
+<a href="https://instagram.com/ankushsinghgandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankushsinghgandhi" height="30" width="40" /></a>
+<a href="https://medium.com/@ankushsinghgandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ankushsinghgandhi" height="30" width="40" /></a>
+</p>
+
+- 👨‍💻 All of my projects are available at [warriorwhocodes.com](warriorwhocodes.com)
+
+- 📝 I regularly write articles on [dev.to/ankushsinghgandhi](dev.to/ankushsinghgandhi)
+
+- 💬 Ask me anything about **django, python, flask**
+
+- 📫 How to reach me **ankushsinghgandhi@gmail.com**
+
+- 📄 Know about my experiences [warriorwhocodes.com/resume.pdf](warriorwhocodes.com/resume.pdf)
+
+
 
 ## Glad to see you here! 👋
     
@@ -41,12 +37,10 @@
 If you have any questions about tech that I can help you with, I'm pleased to assist you.
 
 If you are looking for profiles to sponsor, I would love your appreciation. My goal with sponsorship is to build more projects and maintain the existing ones while managing the community ❤️ Your contributions will motivate me to give back further to the community and sustain my work ✨
-    
-<b>Looking to chat?</b> Feel free to [DM me on Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ankushsgandhi) - the fastest way to reach out to me!
+
     
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
